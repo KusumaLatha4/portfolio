@@ -79,7 +79,7 @@ window.addEventListener('resize', () => {
 
 // Typewriter Effect
 const typingText = document.querySelector('.typing-text');
-const text = 'CREATIVITY POWERED BY CODE';
+const text = 'CREATING WITH CODE';
 let i = 0;
 
 function typeWriter() {
